@@ -1,4 +1,4 @@
 # java-codes
-implementations of stacks,queues,linked lists ,avls,bst.
-binary search,recursion,mergesort.
+implementations of DS -stacks,queues,linked lists ,avls,bst.
+ALGO-binary search,recursion,mergesort,if-else.
 
