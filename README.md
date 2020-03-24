@@ -7,7 +7,7 @@
 	4.avls-insert,delete,search a node,succesor,update height,find height
 	5.bst-insert,delete,search,count max,update
 
-## ALGORITHMS-
+## Algorithms-
 	1.binary search
 	2.recursion
 	3.mergesort
