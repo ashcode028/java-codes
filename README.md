@@ -2,7 +2,7 @@
 
 ## DataStructures -
 	1.stacks-insertion,deletion,
-	2.queues-insertion,deletion
+	2.queues-insertion,deletion,circular queues using linked lists
 	3.linked lists -insert,delete,min,max,reverse,CLL,DLL
 	4.avls-insert,delete,search a node,succesor,update height,find height
 	5.bst-insert,delete,search,count max,update
