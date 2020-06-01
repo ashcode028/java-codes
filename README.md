@@ -14,5 +14,5 @@
 	3.mergesort
 	4.if-else.
 	5.Graph travrsal-bfs,dfs
-        6.Properties of dfs-parenthesis theorem
+	6.Properties of dfs-parenthesis theorem
 	7.dijkstra algorithm
